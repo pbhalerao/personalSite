@@ -1,0 +1,129 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: verdana, sans-serif;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #decdc3;
+  border-width: 10px;
+  width: 4%;
+  margin: 100px auto;
+}
+
+p {
+  line-height: 2
+}
+
+h1 {
+  color: #66BFBF;
+  margin-top: 50px;
+  font-size: 5.625rem;
+  line-height: 2;
+  font-family: 'Kaushan Script', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-size: 3rem;
+  font-family: 'Kaushan Script', cursive;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+  font-size: 2rem;
+  font-family: 'Kaushan Script', cursive;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 40px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top:50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.profile {
+  width:20%;
+  margin: 100px auto;
+}
+
+.parag-img {
+  width: 50%;
+  margin: auto;
+}
+
+.middle-container {
+  margin: 150px 20px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.mag-glass {
+  width: 20%;
+  margin-right: 30px;
+  float: left;
+}
+
+.data-engr {
+  width: 20%;
+  margin-left: 30px;
+  float: right;
+}
+
+.contact-me {
+  width:20%;
+  margin: 100px auto;
+}
+
+.btn {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Open Sans;
+   font-size: 1.5em;
+   padding: 18px;
+   background-color: #66BFBF;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 50px auto;
+}
+.bottom-container {
+  padding: 50px 20px;
+  background-color: #66BFBF;
+}
+
+.footer-link {
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
